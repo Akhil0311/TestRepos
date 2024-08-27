@@ -14,3 +14,6 @@ x=a*b
 
 #Division
 x=a/b
+
+#ratio
+x=y:z
