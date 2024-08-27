@@ -1,0 +1,7 @@
+#!/bin/bash
+#Author: Akhil Kumar Reddy G
+#Date: August 27th,2024
+#Purpose: Learning Branching 
+
+#Addition
+x=a+b
